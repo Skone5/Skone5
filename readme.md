@@ -13,6 +13,9 @@ I was new to GitHub this year, my first impression is that it was a knock off di
 so far ive leanred how to create a repository and collabaorate with teamates and bounce ideas off of each other. I was able to collaborate with a group and help with their app idea "Knight" witch is a mobile RPG game. I got to do a little bit of designing for one of the characters weopons.
 
 ## [Knight](https://github.com/EPHS-iOS/knight#knight)
+This is the gun I made that will be added in the secound version of the game.
+
+![gun](image-2.png)
 
 
 ## Xcode 
