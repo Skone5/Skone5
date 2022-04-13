@@ -21,8 +21,9 @@ This is the gun I made that will be added in the secound version of the game.
 ## Xcode 
 
 I was also new to Xcode and it has been by far one of my favorite programs to use, in the program if I learned how to create an app and
-test it by playing around with the app. It's amazing for bringing ideas to reality, like my friend's idea for a clothing brand, with her designs, hopefully I will be able to create a visually appealing layout for people to order her clothes from an app.
+test it by playing around with the app. It's amazing for bringing ideas to reality, like my friend's idea for a clothing brand, with her designs, hopefully I will be able to create a visually appealing layout for people to order her clothes from an app. The app is called "Human Earth"
 
+## [Human Earth](https://github.com/EPHS-iOS/Human-Earth) 
 
 ## Sketch 
 
