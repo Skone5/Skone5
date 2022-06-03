@@ -14,6 +14,7 @@ so far ive leanred how to create a repository and collabaorate with teamates and
 
 ## [Knight](https://github.com/EPHS-iOS/knight#knight)
 This is the gun I made that will be added in the secound version of the game.
+![KnightFist](https://user-images.githubusercontent.com/98762620/171896249-a246f378-8859-4b31-a236-afb457d5ce7c.png)
 
 ![gun](image-2.png)
 ## [knight] Pt. 2
