@@ -20,9 +20,11 @@ This is the gun I made that will be added in the secound version of the game.
 ## [knight] Pt. 2
  
 
-## Xcode 
+## Xcode ![knightSword](https://user-images.githubusercontent.com/98762620/171898040-daf1fe01-dc25-4829-875d-f73c6baa76dc.png)
 
-I was also new to Xcode and it has been by far one of my favorite programs to use, in the program if I learned how to create an app and
+
+I was also new to Xcode and it has been by far one of my favorite programs to use, in the program if I learned how to create an app and![KnightGun](https://user-images.githubusercontent.com/98762620/171897994-c19f08f7-1fc1-4e80-aede-a1b4bd7a790f.Png)
+
 test it by playing around with the app. It's amazing for bringing ideas to reality, like my friend's idea for a clothing brand, with her designs, hopefully I will be able to create a visually appealing layout for people to order her clothes from an app. The app is called "Human Earth"
 
 ## [Human Earth](https://github.com/EPHS-iOS/Human-Earth) 
