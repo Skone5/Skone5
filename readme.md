@@ -19,6 +19,7 @@ This is the gun I made that will be added in the secound version of the game.
 ![gun](image-2.png)
 ## [knight] Pt. 2
 for the secound term of IOS while wokring on the night project I had more of a contribution with art design for the controls 
+
 ![KnightFist](https://user-images.githubusercontent.com/98762620/171896249-a246f378-8859-4b31-a236-afb457d5ce7c.png)
 
 ![knightSword](https://user-images.githubusercontent.com/98762620/171898040-daf1fe01-dc25-4829-875d-f73c6baa76dc.png)
