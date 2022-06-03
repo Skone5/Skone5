@@ -16,7 +16,8 @@ so far ive leanred how to create a repository and collabaorate with teamates and
 This is the gun I made that will be added in the secound version of the game.
 
 ![gun](image-2.png)
-
+## [knight] Pt. 2
+ 
 
 ## Xcode 
 
